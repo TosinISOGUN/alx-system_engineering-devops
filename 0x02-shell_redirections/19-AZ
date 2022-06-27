@@ -1,0 +1,2 @@
+#!/bin/bash
+tr -s 'A''Z' | tr -s 'c'
