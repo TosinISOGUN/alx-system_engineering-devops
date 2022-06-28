@@ -1,0 +1,2 @@
+#!/bi/bash
+printf '%x\n' $DECIMAL
