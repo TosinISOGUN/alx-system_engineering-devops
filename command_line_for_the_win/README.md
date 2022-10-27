@@ -3,7 +3,7 @@
 
 
 ## Description
-This is a ALX Holberton School project which involves playinga pretty cool game to challenge on simple `Bash` skills.
+This is a ALX Holberton School project which involves playing a pretty cool game to challenge on simple `Bash` skills.
 
 ## Requirements
 - `A README.md` file, at the root of the folder of the project, is mandatory.
