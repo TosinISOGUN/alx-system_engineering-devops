@@ -6,6 +6,8 @@
 This is a ALX Holberton School project which involves playing a pretty cool game to challenge on simple `Bash` skills.
 
 ## Requirements
+<img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
+
 - `A README.md` file, at the root of the folder of the project, is mandatory.
 - This project will be manually reviewed.
 - As each task is completed, the name of that task will turn green.
