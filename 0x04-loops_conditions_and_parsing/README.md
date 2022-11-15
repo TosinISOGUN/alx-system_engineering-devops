@@ -13,7 +13,7 @@ Not passing `Shellcheck`:
 
 Passing `Shellcheck`:
 
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/ubHWxDU.png" width="700" height="250" />
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/ubHWxDU.png" width="700" height="200" />
 
 For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code `SC2034`, you can browse [here for more information.](https://alx-intranet.hbtn.io/rltoken/dxp49_rfO4_9Yjtcg59exg)
  
