@@ -1,5 +1,22 @@
 # Loops, conditions and parsing
+Some of the key concepts treated in this project is **Shellcheck**.
 
+[Shellcheck](https://alx-intranet.hbtn.io/rltoken/joK6l_yEZ9N7T0GQ1RDjLA) is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about.
+
+`Shellcheck` is available on the school’s computers. If you want to use it on your own computer, here is how to [install it](https://alx-intranet.hbtn.io/rltoken/jbz0_-i3TV3WpKgxhyrtpA).
+
+**Here are some examples;**
+
+Not passing `Shellcheck`:
+
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png" />
+
+Passing `Shellcheck`:
+
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/ubHWxDU.png" />
+
+For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code `SC2034`, you can browse [here for more information.](https://alx-intranet.hbtn.io/rltoken/dxp49_rfO4_9Yjtcg59exg)
+ 
 ## Table of Contents
 | **Files** | **Description** |
 | --- | --- |
