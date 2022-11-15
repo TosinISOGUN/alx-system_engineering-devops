@@ -24,6 +24,8 @@ Regular expressions are everywhere and software engineers, no matter their posit
 
 
 ## Requirements & Environments
+<img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
+
 - Allowed editors: `vi`, `vim`, `emacs`.
 - All files will be interpreted on `Ubuntu 20.04 LTS`.
 - All files should end with a new line.
