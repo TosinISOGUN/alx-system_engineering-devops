@@ -12,4 +12,10 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 * [0x01-shell_permissions](https://github.com/TosinISOGUN/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
 * [0x02-shell_redirections](https://github.com/TosinISOGUN/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
 * [0x03-shell_variable_expansions](https://github.com/TosinISOGUN/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
+* [0x04-loops_conditions_and_parsing](https://github.com/TosinISOGUN/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
+* [0x05-processes_and_signals](https://github.com/TosinISOGUN/alx-system_engineering-devops/tree/master/0x05-processes_and_signals)
+* [0x06-regular_expressions](https://github.com/TosinISOGUN/alx-system_engineering-devops/tree/master/0x06-regular_expressions)
 * [command_line_for_the_win](https://github.com/TosinISOGUN/alx-system_engineering-devops/tree/master/command_line_for_the_win)
+
+## Authors & Credits
+- [Oluwatomisin ISOGUN](https://@github.com/TosinISOGUN)
