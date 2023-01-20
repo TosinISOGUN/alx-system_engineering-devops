@@ -1,8 +1,11 @@
 # Web stack debugging #1
-
+<p align="center">
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/271/B4eeypV.jpg" width="" hieght="" />
+</p>
 
 ## General Requirement & Environment
 <img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/ALX.jpeg?raw=true" width="300" height="100" />
+
 - Allowed editors: `vi`, `vim`, `emacs`
 - All files will be interpreted on Ubuntu 14.04 LTS.
 - All files should end with a new line.
